@@ -65,8 +65,7 @@ RTL realization
 ### Output:
 
 ### RTL
-![image](https://user-images.githubusercontent.com/113496887/233275118-192047c7-c030-4d9c-9f99-7907d569bc99.png)
-![image](https://user-images.githubusercontent.com/113496887/233275154-91ab2ddf-b1af-413e-851a-7c5b3ab188d4.png)
+
 
 ### TIMING DIAGRAM
 
