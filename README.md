@@ -79,7 +79,6 @@ RTL realization
 
 ### TRUTH TABLE 
 ![image](https://user-images.githubusercontent.com/113496887/233280003-a40dcaa7-e300-40de-89dc-17e574a97324.png)
-![image](https://user-images.githubusercontent.com/113496887/233280099-72cc8160-894c-4166-b0a4-9f0a92232f95.png)
 
 
 ### Result:
